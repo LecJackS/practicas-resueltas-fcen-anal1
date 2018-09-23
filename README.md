@@ -1,7 +1,7 @@
 Practicas resueltas - FCEN Análisis I
 ==============================
 
-Este es un fork del original para agregar los archivos exportados en formato pdf y no tener que instaler lyx y sus dependencias.
+Este es [un fork del original](https://github.com/Gahen/practicas-resueltas-fcen-anal1) para agregar los archivos exportados en formato pdf y no tener que instaler lyx y sus dependencias.
 
 Archivos fuente con las prácticas resueltas de Análisis matemático I
 
